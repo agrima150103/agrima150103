@@ -21,7 +21,7 @@ alt="Girl Coding Animation"/>
 
 I enjoy working on software where **backend engineering, applied AI and security intersect with real product problems**.
 
-What interests me most is not simply getting something to work. I like understanding:
+What interests me most is not simply getting something to work. I like to understand:
 
 **why it works, where it can fail, how it behaves under load and what would make it easier to trust.**
 
