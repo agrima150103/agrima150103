@@ -455,9 +455,9 @@ An evidence-first AI platform designed so that **agent recommendations cannot si
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=agcodes0315&bg_color=0d1117&color=c9d1d9&line=74d3ae&point=d9f27c&area=true&area_color=27c6b8&hide_border=true&radius=12&custom_title=GitHub%20Contribution%20Activity"
+    src=https://raw.githubusercontent.com/agcodes0315/agcodes0315/output/activity-graph.svg
     width="100%"
-    alt="Agrima Saxena GitHub Contribution Activity"
+    alt="GitHub Contribution Activity"
   />
 </p>
 
