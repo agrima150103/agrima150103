@@ -5,12 +5,12 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v6
@@ -19,7 +19,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: agcodes0315
-          options: bg_color=0d1117&color=c9d1d9&line=74d3ae&point=d9f27c&area=true&area_color=27c6b8&hide_border=true&radius=12&custom_title=GitHub%20Contribution%20Activity
+          options: theme=github-compact&hide_border=true
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
