@@ -3,7 +3,7 @@
 <!--                  GITHUB PROFILE README                    -->
 <!-- ========================================================= -->
 
-# Hi there👋 I'm Agrima Saxena
+# Hi there👋 I'mAgrima Saxena
 
 ### Software Engineering · Backend Systems · Applied AI · Cybersecurity
 
